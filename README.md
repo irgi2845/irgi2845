@@ -9,7 +9,15 @@
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/irgimaulana__) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/irgi-maulana-306920243) 
 
+#### Let's Play
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/irgi2845/irgi2845/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/irgi2845/irgi2845/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/irgi2845/irgi2845/output/pacman-contribution-graph.svg">
+</picture>
+
+###
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <!--
